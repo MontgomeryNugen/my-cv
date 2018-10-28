@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'My Resume';
   myinfo = ['Montgomery Nugen',
-    '1469 Halfhill Way',
+    '123 Main ST',
     'Columbus, Ohio 43207'];
 }
