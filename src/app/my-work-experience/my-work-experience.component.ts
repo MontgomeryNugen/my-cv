@@ -6,9 +6,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./my-work-experience.component.css']
 })
 export class MyWorkExperienceComponent implements OnInit {
-  jobs = ['Jackson Hewitt',
+  jobs = ['Jackson Hewitt Tax Services',
     'Ramos Home Services',
-    'Infinite Systems'];
+    'Infinite Systems, Ltd.'];
 
   constructor() { }
 
